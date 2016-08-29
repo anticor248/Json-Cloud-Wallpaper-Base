@@ -1,0 +1,23 @@
+{
+	"Wallpapers": 
+	[
+		{
+			"author": "This is Just a Sample",
+            		"url": "",
+            		"thumbUrl": "",
+            		"name": "Image won't Loaded"
+		},
+		{
+			"author": "Author Name",
+            		"url": "http://i.imgur.com/taPoLhW.jpg",
+            		"thumbUrl": "http://i.imgur.com/taPoLhW.jpg",
+            		"name": "Wallpaper 1"
+		},
+		{
+			"author": "Author Name",
+           		"url": "http://i.imgur.com/B1VmqX6.jpg",
+            		"thumbUrl": "http://i.imgur.com/B1VmqX6.jpg",
+            		"name": "Wallpaper 2"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+  "latestVersion": "1.0",
+  "latestVersionCode": 100000,
+  "disableRequest": {
+    "below": 1
+  },
+  "url": "teknomoli.net",
+  "releaseNotes": [
+    "This is the text which will be shown on Update",
+    "This is Awesome",
+    "Please Enjoy My Friend",
+    "<b>This</b> is Just for <i>Testing</i>"
+  ]
+}

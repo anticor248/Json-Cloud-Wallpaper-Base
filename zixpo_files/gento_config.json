@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.0",
+  "latestVersion": "Update 14 May",
   "latestVersionCode": 100000,
   "disableRequest": {
-    "below": 1
+    "below": 10,
+    "on": "40 20 353"
   },
-  "url": "teknomoli.net",
+  "url": "https://teknomoli.net",
   "releaseNotes": [
     "This is the text which will be shown on Update",
-    "This is Awesome",
-    "Please Enjoy My Friend",
-    "<b>This</b> is Just for <i>Testing</i>"
+    "Another Release Note"
+    "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
   ]
 }

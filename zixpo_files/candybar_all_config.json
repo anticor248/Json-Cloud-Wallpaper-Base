@@ -1,14 +1,12 @@
 {
-	"latestVersion": "1.1",
-	"latestVersionCode": 10,
+	"latestVersion": "18 May",
+	"latestVersionCode": 100000,
 	"disableRequest": {
-		"below": 10,
-		"on": "40 20 353"
+		"below": 100000
 	},
-	"url": "https://github.com/zixpo/candybar",
+	"url": "https://play.google.com/store/apps/dev?id=4812809828937609171",
 	"releaseNotes": [
-		"This is the text which will be shown on Update",
-		"Another Release Note",
-		"You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+		"18 May Test Update",
+		"You can Use <b>BOLD TEST</b> <i>format test</i> <u>uuu test</u>"
 	]
 }

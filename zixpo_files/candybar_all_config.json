@@ -2,7 +2,7 @@
 	"latestVersion": "18 May",
 	"latestVersionCode": 100001,
 	"disableRequest": {
-		"below": 100000
+		"below": 100001
 	},
 	"url": "https://play.google.com/store/apps/dev?id=4812809828937609171",
 	"releaseNotes": [

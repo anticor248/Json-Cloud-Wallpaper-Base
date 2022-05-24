@@ -1,8 +1,8 @@
 {
 	"latestVersion": "18 May",
-	"latestVersionCode": 100001,
+	"latestVersionCode": 100000,
 	"disableRequest": {
-		"below": 100001
+		"below": 100000
 	},
 	"url": "https://play.google.com/store/apps/dev?id=4812809828937609171",
 	"releaseNotes": [

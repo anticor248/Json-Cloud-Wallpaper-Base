@@ -2,13 +2,14 @@
 	"latestVersion": "24 May",
 	"latestVersionCode": 1000002,
 	"disableRequest": {
-		"below": 1000002
+		"below": 1000003
 	},
 	"url": "https://play.google.com/store/apps/dev?id=4812809828937609171",
 	"releaseNotes": [
-		"<b>29 May 2022 </b>",
-		"33 New Icons",
-		"Some Launcher Problem Fixes"
+		"<b>06 June 2022 </b>",
+		"16 New Icons",
+		"Fixed Reported and Founded Bugs",
+		"One More Update before Friday and Untill July 15, Updates Will Continue"
 
 	]
 }

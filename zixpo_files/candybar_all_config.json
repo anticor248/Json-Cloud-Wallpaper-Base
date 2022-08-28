@@ -1,14 +1,14 @@
 {
-	"latestVersion": "8 August",
-	"latestVersionCode": 1000006,
+	"latestVersion": "28 August",
+	"latestVersionCode": 1000007,
 	"disableRequest": {
-		"below": 1000006
+		"below": 1000007
 	},
 	"url": "https://play.google.com/store/apps/dev?id=4812809828937609171",
 	"releaseNotes": [
-		"<b>8 August 2022 </b>",
-		"28 New Icons",
-       		"I am Back For Updates, More on The Way"
+		"<b>28 August 2022 </b>",
+		"29 New Icons",
+       		"Fixed Known Appfilter Bugs"
 
 	]
 }

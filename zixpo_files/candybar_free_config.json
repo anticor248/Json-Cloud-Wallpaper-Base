@@ -1,0 +1,14 @@
+{
+	"latestVersion": "23 Sept",
+	"latestVersionCode": 1000010,
+	"disableRequest": {
+		"below": 1000010
+	},
+	"url": "https://play.google.com/store/apps/dev?id=4812809828937609171",
+	"releaseNotes": [
+		"<b>23 Sept 2022 </b>",
+		"38 New Icons",
+       		"Fixed Known Appfilter Bugs"
+
+	]
+}

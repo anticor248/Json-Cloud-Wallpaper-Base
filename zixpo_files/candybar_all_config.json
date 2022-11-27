@@ -1,13 +1,13 @@
 {
-	"latestVersion": "09 Nov",
-	"latestVersionCode": 1000013,
+	"latestVersion": "26 Nov",
+	"latestVersionCode": 1000014,
 	"disableRequest": {
-		"below": 1000013
+		"below": 1000014
 	},
 	"url": "https://play.google.com/store/apps/dev?id=4812809828937609171",
 	"releaseNotes": [
-		"<b>09 Nov 2022 </b>",
-		"43 New Icons From All Premium and Some Regular Requests",
+		"<b>26 Nov 2022 </b>",
+		"45 New Icons From All Premium and Some Regular Requests",
        		"Fixed Known Appfilter Bugs"
 
 	]

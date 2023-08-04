@@ -1,14 +1,14 @@
 {
-	"latestVersion": "31 Dec",
-	"latestVersionCode": 1000015,
+	"latestVersion": "4 August",
+	"latestVersionCode": 1000020,
 	"disableRequest": {
-		"below": 1000015
+		"below": 1000020
 	},
 	"url": "https://play.google.com/store/apps/dev?id=4812809828937609171",
 	"releaseNotes": [
-		"<b>31 Dec 2022 </b>",
-		"17 New Icons From All Premium and Some Regular Requests",
-       		"Fixed Known Appfilter Bugs"
-
+		"<b>4 August 2023 </b>",
+		"14 New Icons From Premium Requests",
+       		"Fixed Known Appfilter Bugs",
+		"Cause of earthquake in Turkiye my hometown, I could not update for 6 months. Thanks for waiting"
 	]
 }
